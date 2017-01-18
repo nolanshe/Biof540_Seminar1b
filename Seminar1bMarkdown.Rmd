@@ -2,7 +2,7 @@
 title: "Seminar1bCode"
 author: "Nolan"
 date: "January 18, 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
