@@ -10,3 +10,5 @@ output: github_document
 prDat<-read.table("GSE4051_MINI.tsv",header=TRUE,row.names=1)
 paste("There are",nrow(prDat),"rows in prDat")
 ```
+
+
